@@ -5,3 +5,4 @@ In my ML learning process, I've decided to share my code about generating a mode
   - adding comment and markdown
   - changing method of normalization and optimize it
   - finding better model for Canada
+  - finding problem of len of test and train
