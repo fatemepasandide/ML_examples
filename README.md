@@ -6,5 +6,4 @@
 ![Jupyter](https://img.shields.io/badge/-Jupyter-25383e?style=flat&logo=Jupyter)
 ![SciPy](https://img.shields.io/badge/-SciPy-25383e?style=flat&logo=SciPy)
 
-
-
+Code examples of machine learning with python
